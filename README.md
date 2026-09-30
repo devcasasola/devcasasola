@@ -1,7 +1,7 @@
 <div align="center">
 <h1 align="center">Hola, soy <a href="https://alproject.es">Devcasasola</a> 👋</h1>
 </div>
-<img src="DEVCASASOLA.png">
+<img src="#">
 
 
 ## Sobre mi
